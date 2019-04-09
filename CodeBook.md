@@ -2,7 +2,6 @@
 title: "CodeBook"
 author: "SP"
 date: "April 8, 2019"
-output: html_document
 ---
 
 
