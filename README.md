@@ -15,6 +15,10 @@ the individual HAR datasets, while the second tidy dataset
 is named "TidyDataSetMeanStdDev.txt" and contains the mean 
 and standard deviation values for the data.
 
+Note:  The run_analysis.R function assumes that the 
+UCI HAR Dataset directory structure resides in the working
+directory.  If the files have been moved from the UCI
+directory structure, the code won't find the data.
 
 The run_analysis() function reads the UCI HAR Dataset, 
 combines the data into one tidy file, saves that file in 
