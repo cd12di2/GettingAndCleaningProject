@@ -152,17 +152,17 @@ Vitoria-Gasteiz, Spain. Dec 2012
 ----------------------------------------------------------------
 Addendum - UCI HAR Dataset CodeBook:
 
-================================================================
+----------------------------------------------------------------
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
-================================================================
+----------------------------------------------------------------
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Universita degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
-================================================================
+----------------------------------------------------------------
 
 The experiments have been carried out with a group of 30 
 volunteers within an age bracket of 19-48 years. Each person 
@@ -189,7 +189,7 @@ of features was obtained by calculating variables from the time
 and frequency domain. See 'features_info.txt' for more details. 
 
 For each record it is provided:
-======================================
+--------------------------------------
 
 - Triaxial acceleration from the accelerometer (total 
     acceleration) and the estimated body acceleration.
@@ -199,7 +199,7 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 
 The dataset includes the following files:
-=========================================
+-----------------------------------------
 
 - 'README.txt'
 
@@ -241,7 +241,7 @@ Their descriptions are equivalent.
     sample. The units are radians/second. 
 
 Notes: 
-======
+------
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
 
@@ -249,7 +249,7 @@ For more information about this dataset contact:
 activityrecognition@smartlab.ws
 
 License:
-========
+--------
 Use of this dataset in publications must be acknowledged by 
 referencing the following publication [1] 
 
